@@ -1,0 +1,6 @@
+2017/08/20 21:11:39 AutoIt: 3.3.12.0, AdminMode, Compiled, OS: WIN_7/SP1/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\Folder4Mkv\Folder4Mkv.exe
+
+2017/12/20 23:33:58 AutoIt: 3.3.12.0, Compiled, OS: WIN_8/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\Folder4Mkv\Folder4Mkv.exe
+
+2018/12/31 12:51:45 AutoIt: 3.3.14.2, OS: WIN_10/X64, OSLang: 040C, Keyboard: 0000080C, Script: E:\_workspace\Folder4Mkv\Folder4Mkv.au3
+
